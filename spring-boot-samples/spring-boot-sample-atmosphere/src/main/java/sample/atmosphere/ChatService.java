@@ -32,6 +32,7 @@ import org.slf4j.LoggerFactory;
 @ManagedService(path = "/chat")
 public class ChatService {
 
+    // Another comment
     // Comment for Jenkins purposes
 	private final Logger logger = LoggerFactory.getLogger(ChatService.class);
 
